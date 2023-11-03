@@ -13,6 +13,6 @@
 
 4. Record class is available starting Java 17.
 5. Sealed Classe / Interface - we can use this starting Java 17.
-6. 
+6. Pattern Matching is available as part of Java 16
 
     

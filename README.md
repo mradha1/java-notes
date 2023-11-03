@@ -12,5 +12,7 @@
 3. Enhanced Switch statements (Java 14)
 
 4. Record class is available starting Java 17.
+5. Sealed Classe / Interface - we can use this starting Java 17.
+6. 
 
     
